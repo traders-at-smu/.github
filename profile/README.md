@@ -2,7 +2,7 @@ SMU's Premier Quant Finance Club
 [tradersatsmu.com](https://www.tradersatsmu.com/)
 
 ## 2026-2027 Sector Projects:
-- Statistical Arbitrage: IPO ETF Arbitrage (Fall 2026)
+- Statistical Arbitrage: IPO ETF Arbitrage (Fall 2026, [Link](https://github.com/traders-at-smu/Stat-Arb-Fall-2026))
 - Quant Strategies:
 - Commodities:
 
