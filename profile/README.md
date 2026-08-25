@@ -1,5 +1,5 @@
 SMU's Premiere Quant Finance Organization  
-[tradersatsmu.com]((https://www.tradersatsmu.com/))
+[tradersatsmu.com](www.tradersatsmu.com/)
 
 ## 2026-2027 Sector Projects:
 - Statistical Arbitrage: IPO ETF Arbitrage (Fall 2026)
